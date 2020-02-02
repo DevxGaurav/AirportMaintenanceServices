@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Logs</string>
+
+    <string name="scan">Scan QR-Code</string>
+    <string name="search">Search</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="title_home">Home</string>
+    <string name="title_scan">Scan</string>
+    <string name="title_add">Add</string>
+    <string name="id">ID</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1079660556134",
+    "firebase_url": "https://logs-69100.firebaseio.com",
+    "project_id": "logs-69100",
+    "storage_bucket": "logs-69100.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079660556134:android:b2f4ff6e5108dbfd6162a7",
+        "android_client_info": {
+          "package_name": "com.aai.logs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079660556134-430s8f097duf4539f41gaphgpt3ocvfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4s7N1o6D0rrKsyJey1MZURJnH7MfERc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079660556134-430s8f097duf4539f41gaphgpt3ocvfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
